@@ -271,18 +271,19 @@ Observação:
   - Assinatura física via PDF + upload fotográfico.
 - Estratégia inicial de memória do projeto definida via `MEMORIA.md`.
 - Repositório Git local existente no workspace.
+- Repositório GitHub remoto criado e conectado: https://github.com/Rilen/OcorreSEMEDE
 
 ## 🚧 Etapa Atual em Desenvolvimento
 
 Etapa inicial:
 - Preparar projeto com o nome OcorreSEMEDE.
-- Usar GitHub como repositório remoto assim que houver repositório disponível ou autorização de criação via integração/CLI.
+- Publicar o estado inicial no GitHub.
 - Ainda não implementar componentes.
 - Próxima etapa após confirmação: setup do Prisma.
 
 ## 🔜 Próximos Passos / Backlog
 
-1. Criar ou conectar repositório GitHub `OcorreSEMEDE`.
+1. Publicar o estado inicial no GitHub.
 2. Inicializar projeto Next.js 15.
 3. Instalar dependências base.
 4. Configurar Prisma com PostgreSQL principal.
